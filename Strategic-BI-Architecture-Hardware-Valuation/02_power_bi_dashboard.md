@@ -13,11 +13,11 @@
 <br>
 1. Product Activation and Sales Overview
 
-![Product Activation and Sales Overview](https://github.com/pian-c/DataAnalyticsProjectDemo/blob/4a654069647be7a1a98031aa00faf83b1a44e64c/ProductActivationWithSalesValue/05_images/product_activation_and_sales.png)
+![Product Activation and Sales Overview](https://github.com/pian-c/data-analytics-portfolio/blob/c350c5275e8ed50ae0ce916b81882bf08a06664e/Strategic-BI-Architecture-Hardware-Valuation/05_images/product_activation_and_sales.png)
 
 
 2. By Geography
    The table can be drilled down, easy comparsion among each Geographic level.
 
-![By Geography](https://github.com/pian-c/DataAnalyticsProjectDemo/blob/9fca14984ce06e4ca1270321cf1279e2431da620/ProductActivationWithSalesValue/05_images/by_geography.png)
+![By Geography](https://github.com/pian-c/data-analytics-portfolio/blob/c350c5275e8ed50ae0ce916b81882bf08a06664e/Strategic-BI-Architecture-Hardware-Valuation/05_images/by_geography.png)
 
