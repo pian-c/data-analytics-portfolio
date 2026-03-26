@@ -41,7 +41,7 @@ The next phase involves integrating manufacturing data to bridge the gap between
 
 
 
-<h2>📂 Technical Stack</h2>
+<h2>⚙️ Technical Stack</h2>
 
 Tool: Power BI (Desktop & Service)
 
