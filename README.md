@@ -15,7 +15,7 @@ Impact: Unified commercial visibility of activation figures.
 Tech: Power BI, DAX, RLS, Data Modelling
 
 
-###2. 🧠 GenAI-Powered Global Customer Review Insights
+### 2. 🧠 GenAI-Powered Global Customer Review Insights
 
 The Problem: Manual processing of unstructured customer reviews was slow and inconsistent.
 
@@ -24,3 +24,13 @@ The Solution: Built a Python pipeline using LLM semantic tagging to categorise r
 Impact: Identified end user demands, critical UI/UX friction points, directly influencing the product roadmap.
 
 Tech: Python, API, Pandas, NLP, GenAI integration, Sentiment Analysis, Superset
+
+
+### 🛠️ Core Technical Stack
+| Category | Tools & Technologies |
+|----------|----------------------|
+| Data Visualisation | Power BI, Looker Studio, Apache Superset |
+| Data Engineering |	SQL, DAX, ETL, Power Query, Python, Schema Design |
+| Web & App Analytics | Google Analytics 4 |
+| AI & Advanced Analytics | Machine Learning, LLM, Predictive Modelling |
+| Data Goverance | RLS |
